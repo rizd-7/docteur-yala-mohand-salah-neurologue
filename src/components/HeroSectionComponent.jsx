@@ -47,7 +47,7 @@ function HeroSection() {
         style={{ animationDelay: "0.6s" }}
       >
         <img
-          src="/healthHD.png"
+          src="/healthHD.webp"
           alt="Clinique neurologique, neurologie à Médéa, EEG EMG"
           className="w-full h-auto max-h-[600px] object-cover rounded-lg"
         />
