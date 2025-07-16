@@ -94,7 +94,7 @@ function Header() {
         <div className="flex items-center">
           <img
             src="/logo.png"
-            alt="Clinique neurologique, neurologie à Médéa, EEG EMG"
+            alt="Clinique neurologique, neurologie à Meda, EEG EMG, Docteur Yala Mohand Salah"
             className="h-16 md:h-20 lg:h-35 w-auto xl:h-40"
           />
         </div>

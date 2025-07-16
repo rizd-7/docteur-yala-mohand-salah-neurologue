@@ -52,7 +52,7 @@ function Localisation() {
             <img
               className="w-10/12 max-w-sm md:max-w-full rounded-lg shadow-md"
               src="./cabinet.png"
-              alt=" Clinique neurologique, neurologie à Médéa, EEG EMG"
+              alt="Docteur Yala Mohand Salah Clinique neurologique, neurologie à Meda, EEG EMG"
             />
           </div>
         </div>

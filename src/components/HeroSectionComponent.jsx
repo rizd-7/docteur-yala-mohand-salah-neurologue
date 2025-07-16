@@ -48,7 +48,7 @@ function HeroSection() {
       >
         <img
           src="/healthHD.webp"
-          alt="Clinique neurologique, neurologie à Médéa, EEG EMG"
+          alt="Clinique neurologique, neurologie à Meda, EEG EMG, Docteur Yala Mohand Salah "
           className="w-full h-auto max-h-[600px] object-cover rounded-lg"
         />
       </div>
